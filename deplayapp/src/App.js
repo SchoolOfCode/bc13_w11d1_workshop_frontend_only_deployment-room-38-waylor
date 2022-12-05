@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>HELOOOOOOOOOOOOO</h1>
-      <img src='../public/confused-what.gif' alt='Falcon Hoof'></img>
+      <img src='confused-what.gif' alt='Falcon Hoof'></img>
     </div>
   );
 }

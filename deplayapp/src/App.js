@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HELLOWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW!dawdwaaddadad
+          Cheers Arshi! 
         </a>
       </header>
     </div>
